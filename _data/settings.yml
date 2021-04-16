@@ -13,9 +13,9 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: ''}
-- {icon: 'twitter', link: ''}
-- {icon: 'linkedin', link: ''}
+- {icon: 'github', link: 'https://github.com/badcortex'}
+- {icon: 'twitter', link: 'https://twitter.com/andrepanno_'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/andrea-panno-180451179/'}
 - {icon: 'envelope', link: 'mailto:'}
 - {icon: 'rss-square', link: '/feed.xml'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
